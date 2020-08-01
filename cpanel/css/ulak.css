@@ -1,0 +1,14 @@
+#ulak-container{width:100%;top:0;left:0;position:fixed;z-index:999999;display:none;font-size:12px;font-family:sans-serif;font-weight:700;}
+#ulak-modal{min-width:100%;position:fixed;top:0;left:0;z-index:999988;min-height:100%;background-repeat:repeat;display:none;background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RjNFQTQyOTEwMDU4MTFFMkFBQzQ4RTYyNjBEMkI1RjAiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RjNFQTQyOTIwMDU4MTFFMkFBQzQ4RTYyNjBEMkI1RjAiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpGM0VBNDI4RjAwNTgxMUUyQUFDNDhFNjI2MEQyQjVGMCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpGM0VBNDI5MDAwNTgxMUUyQUFDNDhFNjI2MEQyQjVGMCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pr6GiZoAAAAPSURBVHjaYmBgYNgMEGAAALgAtNah8fUAAAAASUVORK5CYII=');}
+.ulak-error       { background: #f54349; border-bottom: 2px solid #d5151b; color: #FFFFFF; }
+.ulak-success  { background: #daec8f; border-bottom: 2px solid #a3bf26; color: #7c9800; } 
+.ulak-warning  { background: #fff000; border-bottom: 2px solid #cfc300; color: #ac7a00; }
+.ulak-info      { background: #d9edf7; border-bottom: 2px solid #153979; color: #3a87ad; }
+#ulak-center{width:800px;margin:18px auto;}
+#ulak-message-container{width:auto;margin-right:15px;float:left;margin-bottom:15px;}
+#ulak-button-container { width: auto; float: right; margin-bottom: 10px;}
+.ulak-button { width: auto; float: left; margin-right: 5px; cursor: pointer; }
+.ulak-white-button { background: #FFF; border-radius: 3px; text-align: center; padding: 2px 15px; color: #444; margin-top: -2px; }
+.ulak-white-button:hover { background: #F5F5F5; }
+.ulak-black-button { background: #333; border-radius: 3px; text-align: center; padding: 2px 15px; color: #EEE; margin-top: -2px; }
+.ulak-black-button:hover { background: #444; }
