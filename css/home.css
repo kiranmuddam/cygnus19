@@ -1,0 +1,26 @@
+<style type="text/css">
+   #logo-img{
+    top: -70vh !important;
+    left: -82vh !important;
+   }
+   @media screen and (max-width: 600px) {
+  #logo-img{
+    top: -70vh !important;
+    left: -55vh !important;
+  }
+}
+@media only screen and (min-width: 1536px) {
+  #logo-img{
+    top: -70vh !important;
+    left: -65vh !important;
+  }
+}
+.col-white{
+  background:white !important;
+  color:black !important;
+}
+button.glitch:before, button.glitch:before, input[type=button].glitch:before, input[type=submit].glitch:before {
+    background: #fff6a4;
+    z-index: -1;
+}
+ </style>
