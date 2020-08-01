@@ -13,7 +13,6 @@ A web app for Cygnus 2019, which is an Annual cultural extravaganza of RGUKT Nuz
 <img src = "./cygnusuipics/6.png">
 <img src = "./cygnusuipics/7.png">
 <img src = "./cygnusuipics/8.png">
-<img src = "./cygnusuipics/9.png">
 <img src = "./cygnusuipics/10.png">
 <img src = "./cygnusuipics/11.png">
 <img src = "./cygnusuipics/12.png">
