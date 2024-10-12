@@ -74,7 +74,7 @@ mysqli_query($con,"INSERT INTO page_logs_log(ip,enter_time,no_of_times,dates,pag
   <div class="front side1">
     <div class="content1">
      <center> <img src="images/kiran.jpg" style="border-radius: 150px;" height="200" width="200"></center>
-      <p style="font-size:20px;">Kiran Babu Muddam
+      <p style="font-size:20px;">Kiran
       </p>
     </div>
   </div>
@@ -83,11 +83,11 @@ mysqli_query($con,"INSERT INTO page_logs_log(ip,enter_time,no_of_times,dates,pag
       <h4>Contact Me</h4>
       
       <form>
-        <label>Kiran Babu Muddam [N151061] </label>
+        <label>Kiran </label>
         <label>Web Developer</label>
-        <label> E-mail : kiraniiitn@gmail.com </label>
+        <label> E-mail : Redacted :) </label>
         
-        <label> Mobile : 9398584586</label> 
+        <label> Mobile : Redacted :)</label> 
       </form>
     </div>
   </div></div>
